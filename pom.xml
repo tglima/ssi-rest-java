@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>edu.tglima</groupId>
 	<artifactId>ssi-rest</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1.0-SNAPSHOT</version>
 	<name>ssi-rest</name>
 	<description>Implementação backend para o projeto Serviços Sul da Ilha</description>
 
